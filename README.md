@@ -29,7 +29,7 @@ aj@lkn.io | @ajlkn
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
-## Additional Credits (for tonynfong.github.io site only):
+## Additional Credits (for tfong1.github.io site only):
 
 City of San Francisco Image:
 
