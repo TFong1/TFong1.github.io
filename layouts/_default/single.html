@@ -1,0 +1,11 @@
+{{ define "content" }}
+
+    {{ if .Params.redirectURL }}
+        <meta http-equiv="refresh" content="0; url={{ .Params.redirectURL }}" />
+        <link rel="canonical" href="{{ .Params.redirectURL }}" />
+        <script>
+            window.location.href = "{{ .Params.redirectURL }}";
+        </script>
+    {{ end }}
+
+{{ end }}

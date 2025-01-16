@@ -1,0 +1,16 @@
+baseURL = 'https://tfong1.gitub.io/'
+languageCode = 'en-us'
+title = "Tony Fong's Portfolio Site"
+theme = "github-style"
+
+# GitHub-style theme specific settings
+[params]
+  author = 'Tony Fong'
+  description = "Tony's Portfolio Site"
+  github = 'TFong1'
+  linkedin = 'tonynfong'
+  location = 'Sacramento, CA, USA'
+  # These settings are important for the theme to work
+  avatar = 'https://github.com/TFong1.png?size=200'
+  url = 'https://tfong1.github.io'
+  headerIcon = '/images/github-mark-white.png'
