@@ -1,35 +1,12 @@
-# Solid State by HTML5 UP
+# Tony Fong's Portfolio Site
 
-## html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+## Site Info
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+The [tfong1.github.io](https://tfong1.github.io) site was built using the Hugo static website generator framework.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+The theme used is [GitHub Style](https://themes.gohugo.io/themes/github-style/) with some modifications.
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-## Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-
-## Additional Credits (for tfong1.github.io site only):
+## Additional Credits (for tfong1.github.io site only)
 
 City of San Francisco Image:
 
