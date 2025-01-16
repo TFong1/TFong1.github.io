@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tony Fong's Portfolio Site</title><link>https://tfong1.gitub.io/</link><description>Recent content on Tony Fong's Portfolio Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 11 Mar 2023 15:06:33 -0800</lastBuildDate><atom:link href="https://tfong1.gitub.io/index.xml" rel="self" type="application/rss+xml"/><item><title>San Francisco Police Department Incidents</title><link>https://tfong1.gitub.io/post/sf_pd_incidents/</link><pubDate>Sat, 11 Mar 2023 15:06:33 -0800</pubDate><guid>https://tfong1.gitub.io/post/sf_pd_incidents/</guid><description>&lt;img src="images/san-francisco-gb7a0aeab3_640.jpg" alt="San Francisco street"
+ 
+ 
+ height="250">
+
+
+&lt;p>Implement an ETL process to ingest San Francisco Police Department incident report data to a BigQuery data warehouse.&lt;/p>
+&lt;p>This is the capstone project for the DataTalks Club &lt;a href="https://github.com/DataTalksClub/data-engineering-zoomcamp/">Data Engineering Zoomcamp&lt;/a>.&lt;/p></description></item></channel></rss>
