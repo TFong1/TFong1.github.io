@@ -1,6 +1,6 @@
 +++
 date = '2021-10-29T15:06:15-08:00'
-draft = true
+draft = false
 title = 'Cyclistic'
 redirectURL = "https://github.com/TFong1/Cyclistic"
 +++

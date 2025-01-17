@@ -1,6 +1,6 @@
 +++
 date = '2023-09-22T15:06:54-08:00'
-draft = true
+draft = false
 title = 'NBA Player Data Scraper'
 redirectURL = "https://github.com/TFong1/scrape-nba-player"
 +++
