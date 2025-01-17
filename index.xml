@@ -1,8 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tony Fong's Portfolio Site</title><link>https://tfong1.gitub.io/</link><description>Recent content on Tony Fong's Portfolio Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 11 Mar 2023 15:06:33 -0800</lastBuildDate><atom:link href="https://tfong1.gitub.io/index.xml" rel="self" type="application/rss+xml"/><item><title>San Francisco Police Department Incidents</title><link>https://tfong1.gitub.io/post/sf_pd_incidents/</link><pubDate>Sat, 11 Mar 2023 15:06:33 -0800</pubDate><guid>https://tfong1.gitub.io/post/sf_pd_incidents/</guid><description>&lt;img src="images/san-francisco-gb7a0aeab3_640.jpg" alt="San Francisco street"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tony Fong's Portfolio Site</title><link>https://tfong1.gitub.io/</link><description>Recent content on Tony Fong's Portfolio Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 15:06:54 -0800</lastBuildDate><atom:link href="https://tfong1.gitub.io/index.xml" rel="self" type="application/rss+xml"/><item><title>NBA Player Data Scraper</title><link>https://tfong1.gitub.io/post/nba_stat_scraper/</link><pubDate>Fri, 22 Sep 2023 15:06:54 -0800</pubDate><guid>https://tfong1.gitub.io/post/nba_stat_scraper/</guid><description>&lt;img src="images/basketball-gd35333bc5_1280.jpg" alt="Spaldding basketball"
+ 
+ 
+ height="250">
+
+
+&lt;p>Scrape National Basketball Association (NBA) player statistics from the &lt;a href="https://www.basketball-reference.com/">Basketball Reference&lt;/a> website.&lt;/p>
+&lt;p>Implemented using Python&amp;rsquo;s &lt;a href="https://scrapy.org/">Scrapy&lt;/a> tool.&lt;/p>
+&lt;p>For a detailed explanation of the project, head over to the &lt;a href="https://medium.com/@tony.n.fong/scraping-nba-player-statistics-using-scrapy-ac01e91cfe43">Medium&lt;/a> page.&lt;/p></description></item><item><title>San Francisco Police Department Incidents</title><link>https://tfong1.gitub.io/post/sf_pd_incidents/</link><pubDate>Sat, 11 Mar 2023 15:06:33 -0800</pubDate><guid>https://tfong1.gitub.io/post/sf_pd_incidents/</guid><description>&lt;img src="images/san-francisco-gb7a0aeab3_640.jpg" alt="San Francisco street"
  
  
  height="250">
 
 
 &lt;p>Implement an ETL process to ingest San Francisco Police Department incident report data to a BigQuery data warehouse.&lt;/p>
-&lt;p>This is the capstone project for the DataTalks Club &lt;a href="https://github.com/DataTalksClub/data-engineering-zoomcamp/">Data Engineering Zoomcamp&lt;/a>.&lt;/p></description></item></channel></rss>
+&lt;p>This is the capstone project for the DataTalks Club &lt;a href="https://github.com/DataTalksClub/data-engineering-zoomcamp/">Data Engineering Zoomcamp&lt;/a>.&lt;/p></description></item><item><title>Cyclistic</title><link>https://tfong1.gitub.io/post/cyclistic/</link><pubDate>Fri, 29 Oct 2021 15:06:15 -0800</pubDate><guid>https://tfong1.gitub.io/post/cyclistic/</guid><description>&lt;img src="images/wheel-g098d821ea_640.jpg" alt="row of bicycles"
+ 
+ 
+ height="250">
+
+
+&lt;p>Provide recommendations for increasing bicycle utilization of a bike sharing program.&lt;/p>
+&lt;p>This is my capstone project for my &lt;a href="https://www.coursera.org/professional-certificates/google-data-analytics">Google Data Analytics&lt;/a> certificate.&lt;/p></description></item></channel></rss>
