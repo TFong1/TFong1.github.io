@@ -1,4 +1,4 @@
-baseURL = 'https://tfong1.gitub.io/'
+baseURL = 'https://tfong1.github.io/'
 languageCode = 'en-us'
 title = "Tony Fong's Portfolio Site"
 theme = "github-style"
