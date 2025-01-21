@@ -1,10 +1,12 @@
 # Tony Fong's Portfolio Site
 
-## Site Info
+Welcome to my portfolio website. You are looking at the source code for the site. Please visit the actual [site](https://tfong1.github.io) to view the projects I've worked on.
 
-The [tfong1.github.io](https://tfong1.github.io) site was built using the Hugo static website generator framework.
+## Site Credits
 
-The theme used is [GitHub Style](https://themes.gohugo.io/themes/github-style/) with some modifications.
+The [tfong1.github.io](https://tfong1.github.io) site was built using the [Hugo](https://gohugo.io) static website generator framework.
+
+The theme used is [GitHub Style](https://themes.gohugo.io/themes/github-style/).
 
 ## Additional Credits (for tfong1.github.io site only)
 
