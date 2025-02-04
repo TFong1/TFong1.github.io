@@ -1,0 +1,12 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Tony Fong's Portfolio Site"
+theme = "lightbi-hugo"
+
+[params]
+    [params.Author]
+        name = "Tony Fong"
+    description = "Tony's Portfolio Site"
+    github = "TFong1"
+    linkedin = "tonynfong"
+    previewCardImagePlacement = "top"
