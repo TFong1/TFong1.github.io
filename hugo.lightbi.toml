@@ -4,9 +4,14 @@ title = "Tony Fong's Portfolio Site"
 theme = "lightbi-hugo"
 
 [params]
-    [params.Author]
-        name = "Tony Fong"
     description = "Tony's Portfolio Site"
     github = "TFong1"
     linkedin = "tonynfong"
     previewCardImagePlacement = "top"
+    [params.Author]
+        name = "Tony Fong"
+        website = "https://tfong1.github.io"
+        authorPostImage = "https://github.com/TFong1.png"
+        linkedin = "tonynfong"
+        github = "TFong1"
+
