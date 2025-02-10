@@ -6,7 +6,7 @@ Welcome to my portfolio website. You are looking at the source code for the site
 
 The [tfong1.github.io](https://tfong1.github.io) site was built using the [Hugo](https://gohugo.io) static website generator framework.
 
-The theme used is [GitHub Style](https://themes.gohugo.io/themes/github-style/).
+The theme used is [Lightbi](https://themes.gohugo.io/themes/lightbi-hugo/).
 
 ## Additional Credits (for tfong1.github.io site only)
 
