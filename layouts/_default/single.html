@@ -6,6 +6,11 @@
         <script>
             window.location.href = "{{ .Params.redirectURL }}";
         </script>
+    {{ else }}
+        <!-- Fallback to theme's single.html -->
+        {{ $themeSingle := resources.Get "layouts/_default/single.html" }}
+        {{ $themeSingleContent := $themeSingle.Content }}
+        {{ $themeSingleContent }}
     {{ end }}
 
 {{ end }}
