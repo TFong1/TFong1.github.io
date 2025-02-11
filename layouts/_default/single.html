@@ -8,9 +8,15 @@
         </script>
     {{ else }}
         <!-- Fallback to theme's single.html -->
-        {{ $themeSingle := resources.Get "layouts/_default/single.html" }}
-        {{ $themeSingleContent := $themeSingle.Content }}
-        {{ $themeSingleContent }}
+        <div class="container" role="main">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 pt-4">
+                    <article role="main" class="blog-post">
+                        {{ .Content }}
+                    </article>
+                </div>
+            </div>
+        </div>
     {{ end }}
 
 {{ end }}
