@@ -1,0 +1,15 @@
+{
+    "name": "GitHub.io Hugo Development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "postCreateCommand": "git submodule update --init --recursive",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "budparr.language-hugo-vscode",
+                "rusnasonov.vscode-hugo"
+            ]
+        }
+    }
+}
